@@ -56,12 +56,7 @@
 <br/>
 
 ## Projects 
-<img src="./covid19.gif" width="300" >
-<img src="./covid19.gif" width="300" >
-<img src="./covid19.gif" width="300" >
-<img src="./covid19.gif" width="300" >
-<img src="./covid19.gif" width="300" >
-<img src="./covid19.gif" width="300" >
+<img src="./covid19.gif" width="512" >
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devsheilasharon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devsheilasharon" /></a></p><br><br>
