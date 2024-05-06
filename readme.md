@@ -13,7 +13,7 @@
 
 ## Connect With Me
 <p >
- <a href="mailto:sheilasharon10@gmal.com](mailto:sheilasharon10@gmal.com" target="blank">
+ <a href="mailto:sheilasharon10@gmal.com](mailto:sheilasharon10@gmal.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="devsheila" />
  </a>
  <a href="https://www.linkedin.com/in/devsheilasharon/" target="_blank">
@@ -22,7 +22,7 @@
  <a href="https://twitter.com/DevSheilaSharon" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://devsheila.github.io/sheilaSite/](https://devsheila.github.io/sheilaSite/" target="blank">
+ <a href="https://devsheila.github.io/sheilaSite/](https://devsheila.github.io/sheilaSite/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="devsheila" />
  </a>
 
@@ -51,8 +51,7 @@
 ![Javascript](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <br/>
 
 ## Projects 
