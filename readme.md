@@ -8,27 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://devsheila.github.io/sheilaSite/](https://devsheila.github.io/sheilaSite/)
 - 📄 [Resume](https://drive.google.com/file/d/1gyUDHu3gI_cWaxU6TmGkp8w6V_iOQfSv/view?usp=drive_link)
 
-
-## Connect With Me
-<p >
- <a href="mailto:sheilasharon10@gmal.com](mailto:sheilasharon10@gmal.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="devsheila" />
- </a>
- <a href="https://www.linkedin.com/in/devsheilasharon/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devsheila"/>
- </a>
- <a href="https://twitter.com/DevSheilaSharon" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://devsheila.github.io/sheilaSite/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="devsheila" />
- </a>
-
-</p>
-
-
 ## Skills
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F0DB4F)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
