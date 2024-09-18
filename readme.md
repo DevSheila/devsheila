@@ -1,7 +1,5 @@
 <h1>Hello, Nerds. </h1>
 
-<img src="./Banner.png" alt="devsheila" />
-
 ## Full-Stack Engineer
 - 👯 I’m looking to collaborate on MERN Stack projects
 - 💬 Ask me about **React, Node, Springboot**
