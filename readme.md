@@ -1,4 +1,6 @@
-<h1>Hello, Nerds. </h1>
+<h1>Hello, nerds. </h1>
+
+""make code go brr"
 
 ## Full-Stack Engineer
 - 👯 I’m looking to collaborate on MERN Stack projects
