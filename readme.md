@@ -1,4 +1,4 @@
-<h1>Hi , I'm Sheila Sharon 👋🏾 👩🏾‍💻</h1>
+<h1>Hello, Nerds. </h1>
 
 <img src="./Banner.png" alt="devsheila" />
 
@@ -51,11 +51,4 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MYSQL&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF2D20?style=for-the-badge&labelColor=black&logo=Figma&logoColor=FFFFFF)
-<br/>
-
-## Projects 
-<img src="./covid19.gif" width="512" >
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devsheilasharon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devsheilasharon" /></a></p><br><br>
 <br/>
