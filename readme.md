@@ -7,8 +7,8 @@
 - 💬 Ask me about **React, Node, Springboot**
 - 🌱 I’m currently learning DevOps
 - ⚡ Fun fact I do minature sculptures and glass paintings
-- 👨‍💻 All of my projects are available at [https://devsheila.github.io/sheilaSite/](https://devsheila.github.io/sheilaSite/)
-- 📄 [Resume](https://drive.google.com/file/d/1gyUDHu3gI_cWaxU6TmGkp8w6V_iOQfSv/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://devsheilasharon.vercel.app/](https://devsheilasharon.vercel.app/)
+- 📄 [Resume](https://drive.google.com/file/d/1IVc6M4Pzn4MyhxWI-U8EvdmWA43I-cSF/view?usp=sharing)
 
 ## Skills
 
