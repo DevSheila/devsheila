@@ -3,11 +3,9 @@
 ""make code go brr"
 
 ## Full-Stack Engineer
-- 👯 I’m looking to collaborate on MERN Stack projects
 - 💬 Ask me about **React, Node, Springboot**
-- 🌱 I’m currently learning DevOps
 - ⚡ Fun fact I do minature sculptures and glass paintings
-- 👨‍💻 All of my projects are available at [https://devsheilasharon.vercel.app/](https://devsheilasharon.vercel.app/)
+- 👨‍💻 Checkout my portfolio [https://devsheilasharon.vercel.app/](https://devsheilasharon.vercel.app/)
 - 📄 [Resume](https://drive.google.com/file/d/1IVc6M4Pzn4MyhxWI-U8EvdmWA43I-cSF/view?usp=sharing)
 
 ## Skills
