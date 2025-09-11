@@ -3,8 +3,6 @@
 ""make code go brr"
 
 ## Full-Stack Engineer
-- 💬 Ask me about **React, Node, Springboot**
-- ⚡ Fun fact I do minature sculptures and glass paintings
 - 👨‍💻 Checkout my portfolio [https://devsheilasharon.vercel.app/](https://devsheilasharon.vercel.app/)
 - 📄 [Resume](https://drive.google.com/file/d/1IVc6M4Pzn4MyhxWI-U8EvdmWA43I-cSF/view?usp=sharing)
 
