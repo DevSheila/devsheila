@@ -2,10 +2,6 @@
 
 ""make code go brr"
 
-## Full-Stack Engineer
-- 👨‍💻 Checkout my portfolio [https://devsheilasharon.vercel.app/](https://devsheilasharon.vercel.app/)
-- 📄 [Resume](https://drive.google.com/file/d/1IVc6M4Pzn4MyhxWI-U8EvdmWA43I-cSF/view?usp=sharing)
-
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F0DB4F)
@@ -22,9 +18,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MYSQL&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF2D20?style=for-the-badge&labelColor=black&logo=Figma&logoColor=FFFFFF)
 <br/>
